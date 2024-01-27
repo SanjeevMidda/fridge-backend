@@ -1,0 +1,19 @@
+{
+  "fridgeItems": [
+    {
+      "name": "🥚",
+      "type": "protein",
+      "quantity": 5
+    },
+    {
+      "name": "🍓",
+      "type": "fruit",
+      "quantity": 18
+    },
+    {
+      "name": "🧀",
+      "type": "protein",
+      "quantity": 1
+    }
+  ]
+}
